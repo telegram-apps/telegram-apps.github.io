@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-content/js/
+Allow: /wp-includes/images/smilies/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+
+User-agent: Yandex
+Allow: /wp-content/themes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/smilies/
+Allow: /wp-content/js/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+Disallow: /file
+
+host: https://telegram-apps.github.io
+
+Sitemap: https://telegram-apps.github.io/sitemap.xml
+Sitemap: https://telegram-apps.github.io/sitemap1.xml
