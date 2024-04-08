@@ -20,4 +20,3 @@ Disallow: /file
 host: https://telegram-apps.github.io
 
 Sitemap: https://telegram-apps.github.io/sitemap.xml
-Sitemap: https://telegram-apps.github.io/sitemap1.xml
